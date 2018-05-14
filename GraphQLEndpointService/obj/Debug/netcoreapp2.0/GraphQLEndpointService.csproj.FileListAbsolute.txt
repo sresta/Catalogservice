@@ -1,0 +1,78 @@
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.csprojResolveAssemblyReference.cache
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.csproj.CoreCompileInputs.cache
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.AssemblyInfoInputs.cache
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.AssemblyInfo.cs
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\ApplicationInsights.config
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.deps.json
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.runtimeconfig.json
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.runtimeconfig.dev.json
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.dll
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.pdb
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\CatalogService.dll
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.Optimization.dll
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.Mvc.dll
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.Razor.dll
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.WebPages.Razor.dll
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.WebPages.dll
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.WebPages.Deployment.dll
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\CatalogService.pdb
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\CatalogService.dll.config
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.Optimization.xml
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.Mvc.xml
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.Razor.xml
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.WebPages.Razor.xml
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.WebPages.xml
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.WebPages.Deployment.xml
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.dll
+C:\Users\Sonika\Documents\Visual Studio 2017\Projects\UBa\catalog-service\GraphQLService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.pdb
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\ApplicationInsights.config
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.deps.json
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.runtimeconfig.json
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.runtimeconfig.dev.json
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.dll
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.pdb
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\CatalogService.dll
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.Optimization.dll
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.Mvc.dll
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.Razor.dll
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.WebPages.Razor.dll
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.WebPages.dll
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.WebPages.Deployment.dll
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\CatalogService.pdb
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\CatalogService.dll.config
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.Optimization.xml
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.Mvc.xml
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.Razor.xml
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.WebPages.Razor.xml
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.WebPages.xml
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\bin\Debug\netcoreapp2.0\System.Web.WebPages.Deployment.xml
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.csproj.CoreCompileInputs.cache
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.AssemblyInfoInputs.cache
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.AssemblyInfo.cs
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.dll
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.pdb
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.csprojResolveAssemblyReference.cache
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLEndpointService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.deps.json
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLEndpointService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.runtimeconfig.json
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLEndpointService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.runtimeconfig.dev.json
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLEndpointService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.dll
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLEndpointService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.pdb
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLEndpointService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.csprojResolveAssemblyReference.cache
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLEndpointService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.csproj.CoreCompileInputs.cache
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLEndpointService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.AssemblyInfoInputs.cache
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLEndpointService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.AssemblyInfo.cs
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLEndpointService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.dll
+C:\Users\Sonika\source\repos\UBa\catalog-service\GraphQLEndpointService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.pdb
+C:\Users\Sonika\Desktop\catalog-service-master-40cf5b8b98035b573c6d2a4381b04dfd3ec05567\GraphQLEndpointService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.deps.json
+C:\Users\Sonika\Desktop\catalog-service-master-40cf5b8b98035b573c6d2a4381b04dfd3ec05567\GraphQLEndpointService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.runtimeconfig.json
+C:\Users\Sonika\Desktop\catalog-service-master-40cf5b8b98035b573c6d2a4381b04dfd3ec05567\GraphQLEndpointService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.runtimeconfig.dev.json
+C:\Users\Sonika\Desktop\catalog-service-master-40cf5b8b98035b573c6d2a4381b04dfd3ec05567\GraphQLEndpointService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.dll
+C:\Users\Sonika\Desktop\catalog-service-master-40cf5b8b98035b573c6d2a4381b04dfd3ec05567\GraphQLEndpointService\bin\Debug\netcoreapp2.0\GraphQLEndpointService.pdb
+C:\Users\Sonika\Desktop\catalog-service-master-40cf5b8b98035b573c6d2a4381b04dfd3ec05567\GraphQLEndpointService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.csprojResolveAssemblyReference.cache
+C:\Users\Sonika\Desktop\catalog-service-master-40cf5b8b98035b573c6d2a4381b04dfd3ec05567\GraphQLEndpointService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.csproj.CoreCompileInputs.cache
+C:\Users\Sonika\Desktop\catalog-service-master-40cf5b8b98035b573c6d2a4381b04dfd3ec05567\GraphQLEndpointService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.AssemblyInfoInputs.cache
+C:\Users\Sonika\Desktop\catalog-service-master-40cf5b8b98035b573c6d2a4381b04dfd3ec05567\GraphQLEndpointService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.AssemblyInfo.cs
+C:\Users\Sonika\Desktop\catalog-service-master-40cf5b8b98035b573c6d2a4381b04dfd3ec05567\GraphQLEndpointService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.dll
+C:\Users\Sonika\Desktop\catalog-service-master-40cf5b8b98035b573c6d2a4381b04dfd3ec05567\GraphQLEndpointService\obj\Debug\netcoreapp2.0\GraphQLEndpointService.pdb

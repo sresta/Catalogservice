@@ -1,0 +1,7 @@
+packages
+.vs
+bin
+/CatalogService/obj
+/CatalogService.Test/obj
+/GraphQLEndpointTest/obj
+/GraphQLService/obj
